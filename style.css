@@ -1,0 +1,50 @@
+.name{
+    font-weight: bold;
+    padding:10px;
+}
+
+img{
+    margin: 0px 10px 0px 10px;
+}
+
+.fact{
+    font-style: italic;
+}
+
+ul{
+
+    list-style-type: none;
+    padding: 0px;
+    text-align: left;
+}
+
+span{
+    font-weight: bold;
+}
+
+.cat_info{
+    
+   border-style: solid;
+   border-color: lightgray;
+   border-width: 0.5px;
+   margin: 10px;
+   padding: 10px; 
+    background-color: khaki;
+}
+body{
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 0.5px;
+    width: 320px;
+
+    margin: 2px;
+    border:1px solid lightgray;
+
+    box-shadow: 10px 0px 10px 2px #999999;
+    
+    
+}
+
+
+
+
